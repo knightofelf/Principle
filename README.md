@@ -38,3 +38,7 @@ N 타이밍 연산   64 + 64 + 64 + 64 = 256비트
 ****     CRT 응답 0ms
 *****  
 </pre>
+
+워드 프로세서 Display 알고리즘
+https://docs.google.com/presentation/d/1Mvosv5mAgcLlO58Yd2VqXmsvEkrpsi7itTeD_kUlqPc/edit?usp=sharing
+
