@@ -1,5 +1,5 @@
-# Principle
-원리 정리 Conceptual Principles.  Operational Mechanisms
+# 원리 정리 Principle
+Conceptual Principles.  Operational Mechanisms
 
 <pre>
 ← 01000   00010 →   N 진법. 비트 시프트.  E=MC^2. 빛과 그림자. 객체. Procedure 생명 순환. Half Open 
