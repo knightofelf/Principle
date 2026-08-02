@@ -2,7 +2,7 @@
 Conceptual Principles.  Operational Mechanisms
 
 <pre>
-← 01000   00010 →   N 진법. 비트 시프트.  E=MC^2. 빛과 그림자. 객체. Procedure 생명 순환. Half Open 
+← 01000  00010 →   N 진법. 비트 시프트.  E=MC^2. 빛과 그림자. 객체. Procedure 생명 순환. Half Open 
 ← 0C000  000C0 →   knightofelf/Principle: 원리 정리 Conceptual Principles. Operational Mechanisms 
 N + N + N = S    N진법.  바구니 담기
 bit + bit + bit  =  비트 = 껍질 뚜껑  + 알맹이. (ms sseal 카프리카 수 지뢰찾기 로마숫자)
