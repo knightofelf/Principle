@@ -10,7 +10,7 @@ bit + bit + bit  =  비트 = 껍질 뚜껑  + 알맹이. (ms sseal 카프리카 
 9 * 9 = 81 * 9 = 729 …  무한 채널 중계 전송 (영상 지도)
 01 101 1000011110011  비트 엔터
 rand + InterSectTriangle  비트 위치 연산 (Bezier?)
-sRGB  색상표.   DNA IP = Bloom Filter
+sRGB  색상표.   DNS IP = Bloom Filter
 N = M  매칭 인덱스   Nm = Nm  유사패턴 인덱스 TPU NPU 
 중복 분산 참조 압축 정렬 장치 = IO 가속 방법
 POV 투영 렌더 GPU 0% 점유율 (이중슬릿) 
