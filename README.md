@@ -27,7 +27,7 @@ Drag & Drop - Force - New  Challenge - Next Time   23.5도 기운 지구 . 1시�
 x010011110000110x 
    x11000011110x
      x01111000x
-        x00x
+       x00x
 
 N 타이밍 연산   64 + 64 + 64 + 64 = 256비트
 64 1 타이밍
